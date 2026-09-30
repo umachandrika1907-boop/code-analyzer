@@ -1,0 +1,6 @@
+{
+  "name": "Code Change Impact Analyzer",
+  "description": "AI-powered software change impact analysis using Code Embeddings, RAG, and Gemini LLM code analysis.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
